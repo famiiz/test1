@@ -43,7 +43,7 @@
     "js-yaml": "3.6.1",
     "lint-staged": "^4.3.0",
     "lodash": "4.13.1",
-    "moment": "2.17.1",
+    "moment": "2.29.2",
     "prop-types": "^15.6.0",
     "react": "15.4.1",
     "react-ace": "4.1.5",
